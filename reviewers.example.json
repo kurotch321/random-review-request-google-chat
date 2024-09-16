@@ -1,0 +1,14 @@
+[
+  {
+    "github": "REVIEWER_01_GITHUB_ID",
+    "gchat": "REVIEWER_01_GOOGLE_CHAT_ID"
+  },
+  {
+    "github": "REVIEWER_02_GITHUB_ID",
+    "gchat": "REVIEWER_02_GOOGLE_CHAT_ID"
+  },
+  {
+    "github": "REVIEWER_03_GITHUB_ID",
+    "gchat": "REVIEWER_03_GOOGLE_CHAT_ID"
+  }
+]
